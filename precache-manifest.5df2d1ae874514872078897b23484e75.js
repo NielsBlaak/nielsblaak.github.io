@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef1930010b31fd16b3ef324f317236dc",
+    "revision": "e371d21b1727782d27b5a8026265f0ce",
     "url": "/nielsblaak.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nielsblaak.github.io/static/css/2.d819a5bb.chunk.css"
   },
   {
-    "revision": "20572730de29a5d46b3e",
+    "revision": "e5d2ffb1d87b215a9b37",
     "url": "/nielsblaak.github.io/static/css/main.f6d871f5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nielsblaak.github.io/static/js/2.286c29e1.chunk.js"
   },
   {
-    "revision": "20572730de29a5d46b3e",
-    "url": "/nielsblaak.github.io/static/js/main.308e6af7.chunk.js"
+    "revision": "e5d2ffb1d87b215a9b37",
+    "url": "/nielsblaak.github.io/static/js/main.68947963.chunk.js"
   },
   {
     "revision": "8b984ddf89d7efdd2558",
